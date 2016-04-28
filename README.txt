@@ -1,1 +1,1 @@
-Lunar tour is a VR app that tell moon stories
+Lunar tour is a VR app that tells moon stories
